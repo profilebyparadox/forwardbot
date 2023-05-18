@@ -16,8 +16,8 @@
       "file-forward",
       "media-forward"
     ],
-    "website": "https://github.com/Joelkb/File-Forward-Bot",
-    "repository": "https://github.com/Joelkb/File-Forward-Bot",
+    "website": "https://github.com/profilebyparadox/forwardbot",
+    "repository": "https://github.com/profilebyparadox/forwardbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -51,7 +51,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "eco"
+            "size": "free"
         }
     }
 }
